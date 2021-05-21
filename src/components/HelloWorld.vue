@@ -1,23 +1,19 @@
 <template>
   <h1>{{ msg }}</h1>
-
-  <p>
-    <div>
-      Sleep
-    </div>
-    <div>
-      Friends
-    </div>
-    <div>
-      Dating
-    </div>
-    <div>
-      Important people
-    </div>
-
-    <a href="https://vitejs.dev/guide/features.html" target="_blank">Vite Documentation</a> |
-    <a href="https://v3.vuejs.org/" target="_blank">Vue 3 Documentation</a>
-  </p>
+  <div>
+    Sleep
+  </div>
+  <div>
+    Friends
+  </div>
+  <div>
+    Dating
+  </div>
+  <div>
+    Important people
+  </div>
+  <a href="https://vitejs.dev/guide/features.html" target="_blank">Vite Documentation</a> |
+  <a href="https://v3.vuejs.org/" target="_blank">Vue 3 Documentation</a>
 </template>
 
 <script setup>

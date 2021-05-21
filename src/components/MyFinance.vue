@@ -6,6 +6,7 @@
 
 <script>
 import supabase from '../supabase.js'
+import '../plaid.js'
 
 // import { defineProps, reactive } from 'vue'
 // defineProps({
